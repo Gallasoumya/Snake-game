@@ -1,0 +1,15 @@
+#game-canvas {
+    border: 1px solid black;
+  }
+  
+  .snake-body {
+    fill: #00FF00;
+  }
+  
+  .snake-head {
+    fill: #0000FF;
+  }
+  
+  .food {
+    fill: #FF0000;
+  }
